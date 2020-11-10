@@ -116,9 +116,10 @@ public class SportSocialNetworkUserImpl<U extends User> extends SocialNetworkUse
      */
     // TODO
     public void addSport(final Sport sport) {
-    	if (!hasSport(sport)) {
+    	/*if (!hasSport(sport)) {
     		sports.add(sport);
-    	}
+    	}*/
+    	sports.add(sport);
     }
 
     /**
