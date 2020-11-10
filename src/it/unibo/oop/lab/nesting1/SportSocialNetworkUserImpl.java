@@ -116,11 +116,8 @@ public class SportSocialNetworkUserImpl<U extends User> extends SocialNetworkUse
      */
     // TODO
     public void addSport(final Sport sport) {
-    	if(!this.sports.equals(sport)) {
-    		this.sports.add(sport);
-    	}
-    	else {
-    		System.out.println("errore, lo sport è già presente");
+    	if (!hasSport(sport)) {
+    		sports.add(sport);
     	}
     }
 
