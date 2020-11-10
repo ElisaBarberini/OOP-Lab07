@@ -23,6 +23,7 @@ public final class UseDummies {
     }
 
     /**
+     * This main method outputs the string contenute in  of DummyClasses etc
      * @param args
      *            unused.
      */

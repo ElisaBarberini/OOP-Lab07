@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"it.unibo.oop.jar.packages.pkg1"},{"l":"it.unibo.oop.jar.packages.pkg2"},{"l":"it.unibo.oop.jar.packages.pkg3"}]
